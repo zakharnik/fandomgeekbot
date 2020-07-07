@@ -7,7 +7,6 @@ import logging
 import datetime
 import os
 
-token = '966598133:AAHQr_TPCqhKVu8Tn6qryXGfiXW7LpfUDQo'
 bot = telebotapi.TBot(token)
 
 #class Logger(): #--------------------------------------------------пока не существует, но будет в скором времени
